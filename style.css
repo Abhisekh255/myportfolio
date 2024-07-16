@@ -248,6 +248,7 @@ nav ul li{
     border-radius: 10px;
     display: block;
     transition: transform 1s;
+    height:220px;
    }
    .layer{
     width: 100%;
